@@ -1,5 +1,4 @@
 # Linear_Control_Systems_4031
-# Linear Control Systems - Course Repository
 
 This repository contains all coursework, assignments, projects, and additional materials for the **Linear Control Systems** course. The course was taught by **Professor [Dr. Hamidreza Taghirad]** in [5, 2024].
 
