@@ -17,4 +17,3 @@ The project consists of the following seven sections:
 - **Python** (for numerical analysis and plotting)  
 - **MATLAB** (for control system analysis and simulation)  
 - **LaTeX** (for documentation and report preparation)  
-- **GitHub** (for version control and project sharing)  
